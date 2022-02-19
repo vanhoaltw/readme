@@ -1,4 +1,7 @@
-<img width="100%" height="250px" src="https://wallpaperaccess.com/full/3200184.jpg" alt="vanhoaltw" />
+<div width="100%" height="250px">
+  <img width="100%" height="100%" src="https://wallpaperaccess.com/full/3200184.jpg" alt="vanhoaltw" />
+</div>
+
 
 <h1 align="center">Hi 👋, I'm Nguyen Van Hoa</h1>
 <h3 align="center">A frontend developer</h3>
