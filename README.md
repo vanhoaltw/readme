@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native, Figma**
 
-- 👨‍💻 All of my projects are available at [https://my-cv-pefwjlfdg-vanhoaltw.vercel.app/](https://my-cv-pefwjlfdg-vanhoaltw.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-vanhoaltw.vercel.app/)
 
 - 💬 Ask me about **reactjs, nextjs, nodejs**
 
