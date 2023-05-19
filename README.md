@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nguyen Van Hoa</h1>
 <h3 align="center">A frontend developer</h3>
 
+<a href="https://app.daily.dev/vanhoaltw"><img src="https://api.daily.dev/devcards/b31a368e39a74288a63969693143a713.png?r=005" width="400" alt="Nguyễn Vạn Hoà's Dev Card"/></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanhoaltw&label=Profile%20views&color=0e75b6&style=flat" alt="vanhoaltw" /> </p>
 
 - 🔭 I’m currently working on **FI**
